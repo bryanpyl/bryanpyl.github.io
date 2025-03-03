@@ -7,6 +7,8 @@
   - Science Stream: Physics, Chemistry, Biology & Mathematics
   - **CGPA:** 3.96/4.00
 
+<br>
+
 ## Technical Skills
 ### Programming Languages
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)
@@ -33,10 +35,11 @@
 ![NSIS](https://img.shields.io/badge/NSIS-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
+<br>
 
 ## Work Experience
-**Industrial Trainee @ Sarawak Information System (SAINS) Sdn. Bhd. (_Jul 2023 - Dec 2023_)**
-- Reviewed and programmed Python executables and NSIS Windows Installer.
+### **Industrial Trainee @ Sarawak Information System (SAINS) Sdn. Bhd. (_Jul 2023 - Dec 2023_)**
+- Reviewed and programmed **Python executables** and **NSIS Windows Installer**.
 - Contributed to web development for an **endpoint management system**.
 - Conducted research on **Jenkins CI/CD pipelines, OWASP security analysis, and password lockout mechanisms**.
 - **Skills:** Web development, Laravel, Project Management, Python, NSIS, OWASP ZAP, Docker, VirtualBox.
@@ -54,19 +57,27 @@
 - **Technologies:**  ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
 - **GitHub Repository:** [Endpoint-Management](https://github.com/jrmorshidi/Endpoint-Management.git)
 
+<br>
+
 ## Certifications
 - **Alibaba Cloud Certified Associate (Cloud Computing) (_2023 - 2025_)**
 - **CCNA: Introduction to Networks (_2021 - Present_)**
+
+<br>
 
 ## Languages
 - **English:** MUET Band 5 (Professional, Speaking and Writing)
 - **Malay:** Professional (Speaking and Writing)
 - **Mandarin:** Native (Speaking and Writing)
 
+<br>
+
 ## Contact Me
 - **GitHub:** [bryanpyl](https://github.com/bryanpyl)
 - **LinkedIn:** [bryan-phang-yik-loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
 - **Email:** [bryanphangyl8135@gmail.com](bryanphangyl8135@gmail.com)
+
+<br>
 
 ## Resume
 - **View Resume:** [Resume (BryanPhangYikLoong)](https://drive.google.com/file/d/1TsT4AYMkRPGDjZyh_rPN4qRqzYDtSohK/view?usp=sharing)
