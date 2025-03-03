@@ -1,10 +1,5 @@
 # Software Engineering Graduate
 
-## Contact Me
-- **GitHub:** [bryanpyl](https://github.com/bryanpyl)
-- **LinkedIn:** [bryan-phang-yik-loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
-- **Email:** [bryanphangyl8135](bryanphangyl8135@gmail.com)
-
 ## Education
 - **Bachelor of Computer Science (Software Engineering)** | Universiti Malaya (_2021 - 2025_)
   - **CGPA:** 3.68/4.00
@@ -67,5 +62,13 @@
 - **English:** MUET Band 5 (Professional, Speaking and Writing)
 - **Malay:** Professional (Speaking and Writing)
 - **Mandarin:** Native (Speaking and Writing)
+
+## Contact Me
+- **GitHub:** [bryanpyl](https://github.com/bryanpyl)
+- **LinkedIn:** [bryan-phang-yik-loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
+- **Email:** [bryanphangyl8135@gmail.com](bryanphangyl8135@gmail.com)
+
+## Resume
+- **View Resume:** [Resume (BryanPhangYikLoong)](https://drive.google.com/file/d/1TsT4AYMkRPGDjZyh_rPN4qRqzYDtSohK/view?usp=sharing)
 
 
