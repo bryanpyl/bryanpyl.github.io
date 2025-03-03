@@ -74,10 +74,10 @@
 
 <br>
 
-## Contact Me
-- **GitHub:** [bryanpyl](https://github.com/bryanpyl)
-- **LinkedIn:** [bryan-phang-yik-loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
-- **Email:** [bryanphangyl8135@gmail.com](bryanphangyl8135@gmail.com)
+## 📬 Contact Me
+- 📧 **Email:** [bryanphangyl8135@gmail.com](mailto:bryanphangyl8135@gmail.com)
+- 🔗 **GitHub:** [bryanpyl](https://github.com/bryanpyl)
+- 💼 **LinkedIn:** [Bryan Phang Yik Loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
 
 <br>
 
