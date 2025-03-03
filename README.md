@@ -1,6 +1,6 @@
 # Software Engineering Graduate
 
-## Links
+## Contact Me
 - **GitHub:** [bryanpyl](https://github.com/bryanpyl)
 - **LinkedIn:** [bryan-phang-yik-loong](https://www.linkedin.com/in/bryan-phang-yik-loong-7690b8212)
 - **Email:** [bryanphangyl8135](bryanphangyl8135@gmail.com)
@@ -14,12 +14,12 @@
 
 ## Technical Skills
 ### Programming Languages
-![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
@@ -50,25 +50,13 @@
 ### **Trainee Management System (TMS)** _(2024 - 2025)_
 - Final Year Project (Universiti Malaya)
 - Developed a web-based **trainee management system** to assist SMEs in managing interns, including seating arrangements, task delegation, and document uploads.
-- **Technologies:**  
-  ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+- **Technologies:**   ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
 - **GitHub Repository:** [TMS_TraineeManagement](https://github.com/bryanpyl/TMS_TraineeManagement.git)
 
 ### **Endpoint Management System (EPM)** _(Sep 2023 - Nov 2023)_
 - Industrial Project (Sarawak Information System Sdn. Bhd.)
 - Assisted in developing a **new agent deployment feature** and enhancing UI design for the Laravel-based endpoint management system.
-- **Technologies:**  
-  ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+- **Technologies:**  ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
 - **GitHub Repository:** [Endpoint-Management](https://github.com/jrmorshidi/Endpoint-Management.git)
 
 ## Certifications
