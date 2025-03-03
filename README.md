@@ -44,6 +44,8 @@
 - Conducted research on **Jenkins CI/CD pipelines, OWASP security analysis, and password lockout mechanisms**.
 - **Skills:** Web development, Laravel, Project Management, Python, NSIS, OWASP ZAP, Docker, VirtualBox.
 
+<br>
+
 ## Past Projects
 ### **Trainee Management System (TMS)** _(2024 - 2025)_
 - Final Year Project (Universiti Malaya)
